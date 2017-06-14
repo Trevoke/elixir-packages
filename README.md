@@ -1,9 +1,9 @@
 # elixir-packages
-Idiomatic elixir packages
 
-# What is an idiomatic Elixir package?
 
-This is a complex answer. Here are the guidelines:
+# How does an Elixir package qualify?
+
+Here are the guidelines:
 
 1. It fulfills a clear function, too complex to warrant building within one's own system
 2. It prefers returning `{:error, :description_of_error` over raising an exception
@@ -16,3 +16,5 @@ This is a complex answer. Here are the guidelines:
 9. It has hex-level documentation for the public interface
 10. The public interface is limited
 11. The internal interface is not documented in hex
+12. It has an up-to-date CHANGELOG
+13. It has tests
