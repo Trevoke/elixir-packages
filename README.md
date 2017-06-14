@@ -18,3 +18,4 @@ Here are the guidelines:
 11. The internal interface is not documented in hex
 12. It has an up-to-date CHANGELOG
 13. It has tests
+14. It has a small set of dependencies
