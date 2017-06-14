@@ -1,5 +1,5 @@
 # elixir-packages
-Packages I would recommend to my parents.
+Packages I recommend to get things done.
 
 # How does an Elixir package qualify?
 
@@ -19,3 +19,4 @@ Here are the guidelines:
 12. It has an up-to-date CHANGELOG
 13. It has tests
 14. It has a small set of dependencies
+15. I found it usable.
